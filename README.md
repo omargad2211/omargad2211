@@ -3,15 +3,13 @@ Hi, I am Omar Gad
 <br /> <br />
 Seeking to leverage broad development experience and technical expertise in a challenging
 role as a Front-End developer.
-
 </h4>
 
 ###
 
 <div align="left">
-  <img src='https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&username=omargad2211'
- height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&username=omargad2211" height="160" alt="languages graph"  />
+  <img src='https://github-readme-stats.vercel.app/api?username=omargad2211&show_icons=true&count_private=true&theme=gotham&cache_seconds=1800&hide_border=true' height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omargad2211&layout=compact&langs_count=6&theme=gotham&hide_border=true&cache_seconds=60" height="160" alt="languages graph" />
 </div>
 
 ###
@@ -38,19 +36,20 @@ role as a Front-End developer.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/omar-gad-abdelwahhab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://wa.me/+201006128690" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
-  <a href="[https://www.facebook.com/mohamedomar1412](https://www.facebook.com/profile.php?id=100022496932795)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100022496932795" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
   <a href="https://www.instagram.com/omargad_22/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
 
 ###
 
 ![](https://komarev.com/ghpvc/?username=omargad2211)
+
