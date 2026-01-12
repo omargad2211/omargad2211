@@ -8,8 +8,10 @@ role as a Front-End developer.
 ###
 
 <div align="left">
-  <img src='https://github-readme-stats.vercel.app/api?username=omargad2211&show_icons=true&count_private=true&theme=gotham&cache_seconds=1800&hide_border=true' height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omargad2211&layout=compact&langs_count=6&theme=gotham&hide_border=true&cache_seconds=60" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omargad2211&show_icons=true&theme=gotham&hide_border=true&cache_seconds=86400" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omargad2211&layout=compact&langs_count=6&theme=gotham&hide_border=true&cache_seconds=86400" />
+
 </div>
 
 ###
